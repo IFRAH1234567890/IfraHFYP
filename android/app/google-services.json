@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780337103745",
+    "project_id": "neuroo-5ec2b",
+    "storage_bucket": "neuroo-5ec2b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780337103745:android:13baa67ed1a5203bdc9e80",
+        "android_client_info": {
+          "package_name": "com.techease.neuroo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPdor2mymFFO4x67ow-GJWIu4G_Cv4XCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
